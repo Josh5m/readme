@@ -21,7 +21,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Josh5m&show_icons=true&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Josh5m&show_icons=true&theme=radical)
 
 ---
 
